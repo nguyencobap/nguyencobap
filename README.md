@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://manutd.com">
+  <a href="https://www.manutd.com/">
       <img src="https://assets.manutd.com/AssetPicker/images/0/0/11/201/772402/Manchester_United_Crest_Comp_180x1801550591475296.png" alt="Siuuuuuuuuuuu" />
   </a>
     
   <br/>
-    <a href="https://manutd.com">
+    <a href="https://www.manutd.com/">
         <img src="https://img.shields.io/badge/SIUUUUUUUUUUUUUUUUUU-red?style=flat-square">
     </a>
   <br/> 
